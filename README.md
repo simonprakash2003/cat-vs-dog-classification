@@ -13,3 +13,11 @@ Evaluation Metrics: Provides metrics such as accuracy, precision, recall, and F1
 # result
 
 Our model achieves an accuracy of 90% accuracy on the test set, demonstrating its effectiveness in distinguishing between cats and dogs in images.
+
+
+# mainly two code
+
+first: Do the image to process in taking the pickle file 
+# code file: cat_vs_dog_dataset
+second: Build the model
+# code file: cat_vs_dog
