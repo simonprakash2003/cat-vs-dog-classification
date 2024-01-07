@@ -16,7 +16,7 @@ Our model achieves an accuracy of 90% accuracy on the test set, demonstrating it
 
 
 # mainly two code
-
+collecting the data from internet more than 20000 image
 first: Do the image to process in taking the pickle file 
 # code file: cat_vs_dog_dataset
 second: Build the model
